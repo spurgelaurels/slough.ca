@@ -1,6 +1,6 @@
 ---
 layout: default
-img: sammich.jpg 
+img: snowmanhug.jpg 
 category: Services
 title: Art 
 description: |

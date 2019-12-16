@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: technology.jpg 
 category: Services
 title: Technology 
 description: |
