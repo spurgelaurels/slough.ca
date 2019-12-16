@@ -4,7 +4,7 @@
 
 url: http://127.0.0.1:4000
 title: The Slough of Despond 
-email: sloughofdespond235@gmail.com
+email: thesloughofdespond235@gmail.com
 author: Slough 
 description: > # "Write an awesome description for your new site here. 
   Hamilton based arts, music, and community venue
@@ -25,4 +25,4 @@ permalink: pretty
 
 social:
   - title: facebook 
-    url: https://facebook.com/sloughOfdespond
+    url: https://facebook.com/sloughofdespond
