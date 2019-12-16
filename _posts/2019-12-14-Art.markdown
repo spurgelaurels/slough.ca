@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: sammich.jpg 
 category: Services
 title: Art 
 description: |
