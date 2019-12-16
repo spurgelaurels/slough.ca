@@ -1,0 +1,8 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Music Events 
+description: |
+---
+Music events will be described here

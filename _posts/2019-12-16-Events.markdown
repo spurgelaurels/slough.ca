@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Community Events 
+description: |
+---
+Community events will be described here
