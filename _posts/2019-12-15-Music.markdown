@@ -5,4 +5,4 @@ category: Services
 title: Music Events 
 description: |
 ---
-Music events will be described here
+Every now and then, we may host a music show ourselves. Stay tuned to our Facebook page <https://www.facebook.com/sloughofdespond/> for details and announcements!
