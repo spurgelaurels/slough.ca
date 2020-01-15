@@ -5,4 +5,4 @@ category: Services
 title: Art 
 description: |
 ---
-Art will be described here
+

@@ -2,7 +2,14 @@
 layout: default
 img: community.jpg 
 category: Services
-title: Community Events 
+title: Event Space
 description: |
 ---
-Community events will be described here
+What would you like to do with 4000sqft of space, equipped with a stage, a top-shelf PA system, commercial kitchen, and enough chairs to seat a few hundred people? We want to hear about it! Let us know what you need the space for, and for how long. 
+
+Temporary art studio for a project? 
+Wedding? 
+Fundraiser? 
+Group/Peer meetings? 
+
+Send us an email <thesloughofdespond235@gmail.com> and let us know!
