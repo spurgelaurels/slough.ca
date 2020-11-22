@@ -4,12 +4,12 @@
 
 url: http://www.slough.ca
 title: The Slough of Despond 
-email: thesloughofdespond235@gmail.com
+email: salut@slough.ca
 author: Slough 
 description: > # "Write an awesome description for your new site here. 
   Hamilton based arts, music, and community venue
-  copyright: 'Copyright &copy; 2019 Daphne Reed. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  copyright: 'Copyright &copy; 2020 The Slough of Despond. All Rights Reserved.'
+credits: 
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,4 +27,7 @@ social:
   - title: facebook 
     url: https://facebook.com/sloughofdespond
   - title: email
-    url: mailto:thesloughofdespond235@gmail.com
+    url: mailto:salut@slough.ca
+  - title: twitch
+    url: https://twitch.tv/theslough
+  

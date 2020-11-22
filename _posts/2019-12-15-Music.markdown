@@ -2,7 +2,11 @@
 layout: default
 img: twind.jpg
 category: Services
-title: Music Events 
+title: Music Events and Livestreams
 description: |
 ---
 Every now and then, we may host a music show ourselves. Stay tuned to our Facebook page <https://www.facebook.com/sloughofdespond/> for details and announcements!
+
+In the times of COVID 19, we have re-configured our space to facilitate livestreaming musical and artistic performances. Catch our streams and recordings on our Twitch account at <https://www.twitch.tv/thesloughofdespond> and make sure to follow us for notifications. 
+
+If you want to book a livestream show, reach out to us at salut@slough.ca 
